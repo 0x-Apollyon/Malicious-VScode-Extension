@@ -8,7 +8,7 @@ It has the following functionality:
 Try it out for yourself
 --> Install VSCode, nodejs
 --> Install npm packages code-generator and yo
---> Run the command ```yo code``` to generate an extension
+--> Run the command `yo code` to generate an extension
 --> Replace the generated package.json and extension.js files
 --> Edit extension.js to include your own webhook
 --> Run the extension preview 
